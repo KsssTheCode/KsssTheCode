@@ -1,6 +1,6 @@
 <h1 align="center"> Sunghoon Kang </h1>
 <br>
-<h2>Blog</h2>
+<h2>It's me!</h2>
 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@mysunghun585)&nbsp;&nbsp;&nbsp;&nbsp;[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=Notion&logoColor=white)](https://secretive-bacon-ecf.notion.site/6000bbcc2d974afcab3dcb186b0b3e01?pvs=4)
 
